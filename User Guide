@@ -1,8 +1,8 @@
-# Hotel Reservation System Instruction Manual
-
+Hotel Reservation System Instruction Manual
 
 Table of Contents
-System Specification 
+
+1. System Specification 
 a. Development Platform:
 ·         CPU: Intel Core i5 or AMD Ryzen 5
 ·         Memory: 8 GB
@@ -17,21 +17,21 @@ b. Operating or Production Platform:
 ·         Operating System: Windows 10 or higher 
 ·         Software: Eclipse IDE or Java JDK 11
 
-Reserve a Room:
-Search for available rooms by date, room type, or amenities.
-Make a room reservation.
-View Reservations:
-Display a list of current reservations.
-Check-in/Check-out:
-Check-in guests.
-Check-out guests.
-Delete Reservation
-Removes user’s reservation
-Billing and Payments:
-Generate and view bills for each reservation.
-User Profile:
-Guests can create a username and password.
-Guests personal information will be securely stored
-Log Out:
-Allow users to securely log out of the system.
+2. Reserve a Room:
+·         Search for available rooms by date, room type, or amenities.
+·         Make a room reservation.
+3. View Reservations:
+·         Display a list of current reservations.
+4. Check-in/Check-out:
+·         Check-in guests.
+·         Check-out guests.
+5. Delete Reservation
+·         Removes user’s reservation
+6. Billing and Payments:
+·         Generate and view bills for each reservation.
+7. User Profile:
+·         Guests can create a username and password.
+·         Guests personal information will be securely stored
+8. Log Out:
+·         Allow users to securely log out of the system.
 
