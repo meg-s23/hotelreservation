@@ -33,18 +33,18 @@ The finished product provides hotel reservation services to customers with a dyn
 
 # Getting Started  
 ## a. Development Platform:
-·         CPU: Intel Core i5 or AMD Ryzen 5
-·         Memory: 8 GB
-·         Hard Drive: 512 GB with at least 10 GB remaining space
-·         Operating System: Windows 10 or higher
-·         Software: Eclipse IDE with Java JDK 11
+ * CPU: Intel Core i5 or AMD Ryzen 5
+ * Memory: 8 GB
+ * Hard Drive: 512 GB with at least 10 GB remaining space
+ * Operating System: Windows 10 or higher
+ * Software: Eclipse IDE with Java JDK 11
 
 ## b. Operating or Production Platform:
-·         CPU: Intel Core i3 or AMD Ryzen 3 
-·         Memory: 4 GB
-·         Hard Drive: 256 GB with at least 10 GB remaining space
-·         Operating System: Windows 10 or higher 
-·         Software: Eclipse IDE or Java JDK 11
+ * CPU: Intel Core i3 or AMD Ryzen 3
+ * Memory: 4 GB
+ * Hard Drive: 256 GB with at least 10 GB remaining space
+ * Operating System: Windows 10 or higher
+ * Software: Eclipse IDE or Java JDK 11
 
 
 
