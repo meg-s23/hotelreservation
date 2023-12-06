@@ -1,0 +1,37 @@
+# Hotel Reservation System Instruction Manual
+
+
+Table of Contents
+System Specification 
+a. Development Platform:
+·         CPU: Intel Core i5 or AMD Ryzen 5
+·         Memory: 8 GB
+·         Hard Drive: 512 GB with at least 10 GB remaining space
+·         Operating System: Windows 10 or higher
+·         Software: Eclipse IDE with Java JDK 11
+
+b. Operating or Production Platform:
+·         CPU: Intel Core i3 or AMD Ryzen 3 
+·         Memory: 4 GB
+·         Hard Drive: 256 GB with at least 10 GB remaining space
+·         Operating System: Windows 10 or higher 
+·         Software: Eclipse IDE or Java JDK 11
+
+Reserve a Room:
+Search for available rooms by date, room type, or amenities.
+Make a room reservation.
+View Reservations:
+Display a list of current reservations.
+Check-in/Check-out:
+Check-in guests.
+Check-out guests.
+Delete Reservation
+Removes user’s reservation
+Billing and Payments:
+Generate and view bills for each reservation.
+User Profile:
+Guests can create a username and password.
+Guests personal information will be securely stored
+Log Out:
+Allow users to securely log out of the system.
+
