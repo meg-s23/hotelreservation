@@ -2,7 +2,7 @@
 This package contains all necessary code and supporting documents for the UMGC CMSC 495 Capstone in Computer Science Group project. 
 
 # About this Program
-The Hotel Reservation program is a software application written in Java designed to facilitate the process of booking and managing hotel accommodations. Such a program helps hotels and their guests streamline the reservation process, manage room availability, and improve overall customer service. Developed over a period of seven weeks, the project was implemented by a group of three developers. 
+The Hotel Reservation program is a software application written in Java designed to facilitate the process of booking and managing hotel accommodations. The program helps hotels and their guests streamline the reservation process, manage room availability, and improve overall customer service. Developed over a period of eight weeks, the project was implemented by a group of three developers. 
 
 The finished product provides hotel reservation services to customers with a dynamic set of tools to manage reservations and search for available hotel rooms with ease. By creating and logging into a unique user account, customers may input their search information for a hotel room containing the location of the hotel and dates.
 
@@ -25,12 +25,6 @@ The finished product provides hotel reservation services to customers with a dyn
 ## 7. Log Out:
   * Allow users to securely log out of the system.
 
-
-# Team
-* Mario Bethancourt
-* Jules Torres 
-* Megan Moore
-
 # Getting Started  
 ## a. Development Platform:
  * CPU: Intel Core i5 or AMD Ryzen 5
@@ -46,6 +40,10 @@ The finished product provides hotel reservation services to customers with a dyn
  * Operating System: Windows 10 or higher
  * Software: Eclipse IDE or Java JDK 11
 
+# Team
+* Mario Bethancourt
+* Jules Torres 
+* Megan Moore
 
 
   
